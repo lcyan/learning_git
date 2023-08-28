@@ -10,7 +10,7 @@ li{list-style:none;}
 h1,h2,h3,h4,h5,h6,small{font-size:100%;}
 sup,sub{font-size:83%;}
 pre,code,kbd,samp{font-family:inherit;}
-q:before,q:after{content:none;}
+q:before,q:after{content:black;}
 textarea{overflow:auto;resize:none;}
 label,summary{cursor:default;}
 a,button{cursor:pointer;}
